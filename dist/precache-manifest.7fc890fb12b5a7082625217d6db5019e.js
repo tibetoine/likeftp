@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2a5ab5d984527d58145",
+    "revision": "bdb11f63fc794542e378",
     "url": "/intranet-vuejs/css/app.6ad36090.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/intranet-vuejs/data-cards2.json"
   },
   {
-    "revision": "c5f38f85221d73ba6d7084462d42775f",
+    "revision": "218afe7d7de1e0913abcced247080dd7",
     "url": "/intranet-vuejs/index.html"
   },
   {
-    "revision": "d2a5ab5d984527d58145",
-    "url": "/intranet-vuejs/js/app.15dc8cf0.js"
+    "revision": "bdb11f63fc794542e378",
+    "url": "/intranet-vuejs/js/app.76561cf9.js"
   },
   {
     "revision": "dee2370dc9f49115cacd",
