@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/intranet-vuejs/precache-manifest.6e5959a7efd5647b77fe39ecc1010f72.js"
+  "/intranet-vuejs/precache-manifest.8adbf97550aedea08a946d982319e885.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "intranet-vue"});

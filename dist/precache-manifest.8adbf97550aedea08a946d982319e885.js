@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19f5eb9439cd83f5117e",
+    "revision": "d2a5ab5d984527d58145",
     "url": "/intranet-vuejs/css/app.6ad36090.css"
   },
   {
-    "revision": "d2eaa7c95e2961c38be8",
+    "revision": "dee2370dc9f49115cacd",
     "url": "/intranet-vuejs/css/chunk-vendors.45b7dd2f.css"
   },
   {
-    "revision": "0bbb173d763dafee73326b1c24031348",
+    "revision": "0b06c62b1b626b97dc81f2f0da85415f",
+    "url": "/intranet-vuejs/data-cards2.json"
+  },
+  {
+    "revision": "c5f38f85221d73ba6d7084462d42775f",
     "url": "/intranet-vuejs/index.html"
   },
   {
-    "revision": "19f5eb9439cd83f5117e",
-    "url": "/intranet-vuejs/js/app.c288b3e6.js"
+    "revision": "d2a5ab5d984527d58145",
+    "url": "/intranet-vuejs/js/app.15dc8cf0.js"
   },
   {
-    "revision": "d2eaa7c95e2961c38be8",
-    "url": "/intranet-vuejs/js/chunk-vendors.46202c93.js"
+    "revision": "dee2370dc9f49115cacd",
+    "url": "/intranet-vuejs/js/chunk-vendors.97cf8abb.js"
   },
   {
     "revision": "393f64d369eb4da95c7d690fd8e5a6c1",
