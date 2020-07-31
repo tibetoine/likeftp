@@ -4,6 +4,7 @@
             "title": "Steeple",
             "src": "https://source.unsplash.com/5Rgr_zI7pBw",
             "flex": 12,
+            "sm": 12,
             "link": "https://www.steeple.fr/chantiers-atlantique",
             "tags": [
                 "Steeple",
@@ -15,7 +16,8 @@
             "title": "Coordi Marine",
             "src": "https://source.unsplash.com/4zqvu9dyvSk",
             "link": "https://share.chantiers-atlantique.com/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/4b209435-6759-4570-be51-d7c3f9c19c80/2020.07.27.pdf",
-            "flex": 6,
+            "flex": 12,
+            "sm": 6,
             "tags": [
                 "Marine",
                 "Hebdomadaire",
@@ -27,7 +29,8 @@
             "title": "Marine Info",
             "src": "https://source.unsplash.com/haZNHEV2WXQ",
             "link": "https://share.chantiers-atlantique.com/share/proxy/alfresco/slingshot/node/content/workspace/SpacesStore/cdbb5842-9539-4887-8c9d-20fb98ea461b/MI_119_WEB.pdf?",
-            "flex": 6,
+            "flex": 12,
+            "sm": 6,
             "tags": [
                 "Marine",
                 "MI",
@@ -39,7 +42,8 @@
             "title": "Pléïade",
             "src": "https://source.unsplash.com/knZbAZfJBTw",
             "link": "https://www.google.com",
-            "flex": 4,
+            "flex": 12,
+            "sm": 4,
             "tags": [
                 "Truc",
                 "Bidul"
@@ -49,7 +53,8 @@
             "title": "Divers",
             "src": "https://source.unsplash.com/knZbAZfJBTw",
             "link": "https://www.google.com",
-            "flex": 4,
+            "flex": 12,
+            "sm": 4,
             "tags": [
                 "Truc",
                 "Bidul"
@@ -59,7 +64,8 @@
             "title": "Autre",
             "src": "https://source.unsplash.com/knZbAZfJBTw",
             "link": "https://www.google.com",
-            "flex": 4,
+            "flex": 12,
+            "sm": 4,
             "tags": [
                 "Truc",
                 "Bidul"
